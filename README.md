@@ -1,5 +1,7 @@
 ## Hi there 👋
-Im Darren Huang, everyone calls me Darreng
+
+I don't know how you got here anyway, but welcome!
+I'm Darren Huang, but everyone calls me Darreng.
 
 ## About Me
 Im Currently pursuing a Bachelor's degree in Information Systems at Universitas Internasional Batam (UIB), and  I'm in my 6th semester
@@ -11,7 +13,7 @@ Im Currently pursuing a Bachelor's degree in Information Systems at Universitas 
 - ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)   
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)   
 
-Thanks for stopping by! 🚀
+Thanks for stopping by!
 <!--
 **iniDarren/iniDarren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
