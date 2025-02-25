@@ -2,7 +2,7 @@
 Im Darren Huang, everyone calls me Darreng
 
 ## About Me
-Im Currently pursuing a Bachelor's degree in Information Systems at Universitas Internasional Batam (UIB), and Im on 5th semester
+Im Currently pursuing a Bachelor's degree in Information Systems at Universitas Internasional Batam (UIB), and  I'm in my 6th semester
 
 ## What I Have Learned
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) 
